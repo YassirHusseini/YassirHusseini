@@ -5,7 +5,7 @@
 - Career Title: Front-enf Developer
 
 **I code With:**
-1. [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+1. [![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)]
 
 
 - 👀 I’m interested in ...
