@@ -32,11 +32,11 @@
     
 - **Skills**:
 	<ul> 
-		<li> <img scr = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Algorthim.svg" width = "20px"> <b> Algorithm </b> </li>	
-		<li> <img scr = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Data.svg" width = "20px"> <b> Data Structures </b> </li>	
-		<li> <img scr = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Absart.svg" width = "20px"> <b> Abstract thinking </b> </li>	
-		<li> <img scr = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Manage.svg" width = "20px"> <b> Managing </b> </li>	
-		<li> <img scr = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Communication.svg" width = "20px"> <b> Communication Skills </b> </li>	
+		<li> <img src = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Algorthim.svg" width = "20px"> <b> Algorithm </b> </li>	
+		<li> <img src = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Data.svg" width = "20px"> <b> Data Structures </b> </li>	
+		<li> <img src = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Absart.svg" width = "20px"> <b> Abstract thinking </b> </li>	
+		<li> <img src = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Manage.svg" width = "20px"> <b> Managing </b> </li>	
+		<li> <img src = "https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/b3c8815b470ba10637d3c0287be240361ae2e75f/Images/Communication.svg" width = "20px"> <b> Communication Skills </b> </li>	
 	</ul>
 <br>
 
