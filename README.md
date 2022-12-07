@@ -34,7 +34,7 @@
 	- Abstract thinking
 	- Managing
 	- Communication Skills
-	-![Algorithms] (https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/6f41d457d4c4237fc4ed5924793b243cc8176edd/Algorsim.svg)
+	- <img src="https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/6f41d457d4c4237fc4ed5924793b243cc8176edd/Algorsim.svg" alt="Algorithm" width="20"> 
 
 <br>
 
