@@ -70,12 +70,13 @@
 
 <ul>
 
+	<li> Email: yassir.husseini22@gmail.com </li>
+	
 <li>
 <a href="https://www.linkedin.com/in/yassir-husseini-13b471247/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: Yassir Husseini -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 <br>
 
 Last Edited on: 09/11/2022
