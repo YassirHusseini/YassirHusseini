@@ -31,10 +31,16 @@
 <br>   
     
 - **Skills**:
+	<ul> 
+		
+		
 	- Abstract thinking
 	- Managing
 	- Communication Skills
-	- <img src="https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/6f41d457d4c4237fc4ed5924793b243cc8176edd/Algorsim.svg" alt="Algorithm" width="20"> 
+	- <img src="https://raw.githubusercontent.com/YassirHusseini/DominaWithComputer/6f41d457d4c4237fc4ed5924793b243cc8176edd/Algorsim.svg" alt="Algorithm" width="25"> 
+		
+		
+	</ul>
 
 <br>
 
