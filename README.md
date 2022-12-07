@@ -70,7 +70,7 @@
 
 <ul>
 
-	<li> Email: yassir.husseini22@gmail.com </li>
+<li> Email: yassir.husseini22@gmail.com </li>
 	
 <li>
 <a href="https://www.linkedin.com/in/yassir-husseini-13b471247/" target="_blank">
